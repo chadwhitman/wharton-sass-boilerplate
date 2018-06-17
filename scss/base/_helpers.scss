@@ -1,0 +1,43 @@
+// -----------------------------------------------------------------------------
+// This file contains CSS helpers (e.g., mixins, functions).
+// -----------------------------------------------------------------------------
+
+/**
+ * Event wrapper
+ * @Usage: @include on-event {}
+ */
+@mixin on-event($self: false) {
+  @if $self {
+    &,
+    &:hover,
+    &:active,
+    &:focus {
+      @content;
+    }
+  } @else {
+    &:hover,
+    &:active,
+    &:focus {
+      @content;
+    }
+  }
+}
+
+/**
+ * Set breakpoints
+ * usage @include maxBreak(350px){}
+ */
+@mixin maxBreak($width) {
+    @media only screen and (max-width: $width) {
+        @content;
+    }
+}
+
+/**
+ * Clear those pesky floats
+ */
+.clearfix::after {
+  clear: both;
+  content: '';
+  display: table;
+}
