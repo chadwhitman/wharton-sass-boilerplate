@@ -12,4 +12,9 @@ The scss directory consists of three folders to organize a projects main style a
 
 #### Authors
 
-- Chad Whitman: github.com/chadwhitman
+- Chad Whitman
+
+#### Inspired by
+
+- SASS Boilerplate by Hugo Giraudel
+- SMACSS by Jonathan Snook
