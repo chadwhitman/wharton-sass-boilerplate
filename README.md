@@ -1,5 +1,5 @@
 ## Wharton Sass Architecture
-#### A simple way to organize your SASS projects using a 3-1 architecture pattern.
+#### A simple way to organize your SASS files using a 3-1 architecture pattern.
 
 #### Overview
 The scss directory consists of three folders to organize a projects main style areas:
