@@ -1,5 +1,5 @@
-## Wharton Sass Boilerplate
-#### A boilerplate for Sass projects using a simple 3-1 architecture pattern.
+## Wharton Sass Architecture
+#### A structure for Sass projects using a simple 3-1 architecture pattern.
 
 #### Overview
 The scss directory consists of three folders to organize a projects main style areas:
