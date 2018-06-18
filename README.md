@@ -1,4 +1,4 @@
-## Wharton Sass Architecture
+## Wharton Sass Boilerplate
 #### A simple way to organize your SASS files using a 3-1 architecture pattern.
 
 #### Overview
