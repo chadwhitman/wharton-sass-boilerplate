@@ -18,3 +18,4 @@ The scss directory consists of three folders to organize a projects main style a
 
 - SASS Boilerplate by Hugo Giraudel
 - SMACSS by Jonathan Snook
+- Tom Rose, @slurve
