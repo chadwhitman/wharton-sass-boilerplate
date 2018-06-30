@@ -6,7 +6,7 @@ The scss directory consists of three folders to organize a projects main style a
 - base
   - the base directory is the place to keep all global related styles, including helpers and mixins.
 - components
-  - the components directory is the place to create styles for each part of an application. This can include layout related items (e.g., footer, header, main), to things like buttons or cards or navigation. Note: I prefer to consider layout items like any other component and not breaking them out into their own folder (as there is often overlap anyway and it avoids confusion in the long run).
+  - the components directory is the place to create styles for each part of an application. This can include layout related items (e.g., footer, header, main), to things like buttons or cards or navigation. I prefer to consider layout items like any other component and not breaking them out into their own folder (as there is often overlap anyway and it avoids confusion in the long run).
 - library
   - the library directory is the place to put any and all third-party stylesheets (e.g., Bootstrap, Normalize).
 
